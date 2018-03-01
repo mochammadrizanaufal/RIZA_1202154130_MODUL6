@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339304225936",
+    "firebase_url": "https://roomer-62d17.firebaseio.com",
+    "project_id": "roomer-62d17",
+    "storage_bucket": "roomer-62d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339304225936:android:df695e78e58244a0",
+        "android_client_info": {
+          "package_name": "com.example.android.splashroomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339304225936-qm01es67rh9ug3mtolhl9gvb41h7dl0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02V96hxNgymkzcoP4XeHfGBeZ3qno5MU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
