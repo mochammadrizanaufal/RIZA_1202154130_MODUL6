@@ -80,7 +80,7 @@
                 android:text="Register"
                 android:onClick="register"
                 android:textAllCaps="false"
-                android:textColor="#f16f7d"
+                android:textColor="#6fa0e9"
                 android:textSize="18sp" />
 
 
