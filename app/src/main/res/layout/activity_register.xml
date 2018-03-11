@@ -78,6 +78,7 @@
                 android:clickable="true"
                 android:padding="16dp"
                 android:text="Register"
+                android:onClick="register"
                 android:textAllCaps="false"
                 android:textColor="#f16f7d"
                 android:textSize="18sp" />
