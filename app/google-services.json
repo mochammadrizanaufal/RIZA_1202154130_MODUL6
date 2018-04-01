@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "339304225936",
-    "firebase_url": "https://roomer-62d17.firebaseio.com",
-    "project_id": "roomer-62d17",
-    "storage_bucket": "roomer-62d17.appspot.com"
+    "project_number": "1089444050002",
+    "firebase_url": "https://modul6-5160c.firebaseio.com",
+    "project_id": "modul6-5160c",
+    "storage_bucket": "modul6-5160c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:339304225936:android:df695e78e58244a0",
+        "mobilesdk_app_id": "1:1089444050002:android:df695e78e58244a0",
         "android_client_info": {
           "package_name": "com.example.android.splashroomer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "339304225936-qm01es67rh9ug3mtolhl9gvb41h7dl0v.apps.googleusercontent.com",
+          "client_id": "1089444050002-ko9limqgf6tpuu19qugms3f1nbt48vku.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC02V96hxNgymkzcoP4XeHfGBeZ3qno5MU"
+          "current_key": "AIzaSyBc_whi9cacoq0wgvr65sAxCAoXjn317vo"
         }
       ],
       "services": {
